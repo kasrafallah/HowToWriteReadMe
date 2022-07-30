@@ -10,6 +10,23 @@ This repository was made by Kasra Fallah as a cheat sheet for ones who need to h
 
 
 ## Math formula
+Greek Letters
+| Symbol  | Command |
+| :---: | :---: |
+| α  | \alpha |
+| β  |\beta |
+| γ | \gamma |
+| Γ |\Gamma |
+| γ | \gamma |
+| π |\pi |
+| γ | \gamma |
+| Γ |\Gamma |
+
+
+
+
+
+
 ## Figure
 ## Table
 ## Code 
