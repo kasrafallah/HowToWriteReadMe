@@ -8,7 +8,7 @@ This repository was made by Kasra Fallah as a cheat sheet for ones who need to h
 
   * [1.1. Greek Letters](#greek-letters)
   * [1.2. Operatoes](#operators)
-  * [1.2. Method](#method)  
+  * [1.3. Method](#method)  
 
 **[2. Figure](#figure)**
 
