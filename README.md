@@ -8,6 +8,7 @@ This repository was made by Kasra Fallah as a cheat sheet for ones who need to h
 
   * [1.1. Greek Letters](#greek-letters)
   * [1.2. Operatoes](#operators)
+  * [1.2. Method](#method)  
 
 **[2. Figure](#figure)**
 
@@ -60,6 +61,12 @@ This repository was made by Kasra Fallah as a cheat sheet for ones who need to h
 |$\frac{\partial^{k} f}{\partial x^k}$|\frac{\partial^{k} f}{\partial x^k}
 |$\lim_{x \to +\infty} f(x)$|\lim_{x \to +\infty} f(x)|
 |$\prod\limits_{j=1}^k A_{\alpha_j}$|\prod\limits_{j=1}^k A_{\alpha_j}|
+
+### Method
+You should use one $ at the start and end of any math phrase if you want to write it in a sentence. like this $\frac{a}{b}$.
+In addition, you should use $$ at the start and the end of a phrase if you want to write it in a separate line:
+$$\frac{a}{b}$$
+
 ## Figure
 ## Table
 ## Code 
