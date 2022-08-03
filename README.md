@@ -25,6 +25,8 @@ This repository was made by Kasra Fallah as a cheat sheet for ones who need to h
 
 **[5. General points](#general-points)**
   * [5.1. Font Size ](#font-size)
+  * [5.2. Add link](#add-link)
+
 
 ## Math formula
 ### Greek Letters
@@ -75,12 +77,15 @@ $$\frac{a}{b}$$
 
 ### Font size
 You can use different numbers of # for change the size of font
-One #
-# For headline
-Two #
-## For sections
-Three #
-### For subsections
-Four #
-#### For important notes
+| #  | functionality |
+| :---: | :---: |
+|One #| # For headline|
+|Two #| ## For sections|
+|Three #| ### For subsections|
+|Four #| #### For important notes|
 
+### Add link
+
+You can generate links easily by put tdesiered text in [link name] and the adderres in the(adderess) after that. An example is shown below:
+
+[My youtube channel](https://www.youtube.com/channel/UC3kyv2IUyZN98ROC3AtCBvg)
