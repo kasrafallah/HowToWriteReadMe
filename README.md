@@ -24,6 +24,7 @@ This repository was made by Kasra Fallah as a cheat sheet for ones who need to h
 **[4. Code](#code)**
 
 **[5. General points](#general-points)**
+  * [5.1. Font Size ](#font-size)
 
 ## Math formula
 ### Greek Letters
