@@ -23,7 +23,7 @@ This repository was made by Kasra Fallah as a cheat sheet for ones who need to h
 
 **[4. Code](#code)**
 
-
+**[5. General points](#general-points)**
 
 ## Math formula
 ### Greek Letters
@@ -70,3 +70,16 @@ $$\frac{a}{b}$$
 ## Figure
 ## Table
 ## Code 
+## General Points
+
+### Font size
+You can use different numbers of # for change the size of font
+One #
+# For headline
+Two #
+## For sections
+Three #
+### For subsections
+Four #
+#### For important notes
+
